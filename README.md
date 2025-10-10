@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tuấn</h1>
 <h3 align="center">A developer from Vietnam</h3>
 
-- I’m the Founder & Full Stack Developer of [TikGrow](https://www.tikgrow.io/)
+- I’m the Founder & Full Stack Developer of [Fanz](http://fanz.vn/) [TikGrow](https://www.tikgrow.io/)
 
 - 🌱 I’m currently learning **Penetration Testing, Web Security, Reverse Engineering, Hacking.**
+  My background includes extensive hands-on exposure to the mechanics of vulnerability discovery and exploitation. I actively apply this Red Team mindset to fortify application security, leveraging a deep understanding of attacker methodologies to build truly robust and resilient defensive systems
 
 - Full Stack Developer of [Nesty](https://www.nestypremium.vn/)
 
