@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Tuấn</h1>
-<h3 align="center">A developer from Vietnam</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  
+  <h1 align="center">Hello, I'm Tuấn</h1>
+  <h3 align="center">Full Stack Developer | Aspirant Offensive Security Engineer</h3>
 
-- I’m the Founder & Full Stack Developer of [Fanz](http://fanz.vn/) [TikGrow](https://www.tikgrow.io/)
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=60C8D6&center=true&vCenter=true&repeat=true&width=600&lines=Applying+Full+Stack+to+Security;Exploring+AI+in+Vulnerability+Discovery;Currently+Learning+Reverse+Engineering;Building+Tools+for+Internal+Audit" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Penetration Testing, Web Security, Reverse Engineering, Hacking.**
-  My background includes extensive hands-on exposure to the mechanics of vulnerability discovery and exploitation. I actively apply this Red Team mindset to fortify application security, leveraging a deep understanding of attacker methodologies to build truly robust and resilient defensive systems
+---
 
-- Full Stack Developer of [Nesty](https://www.nestypremium.vn/)
+### About Me
 
-- 📫 How to reach me **tuannguyen7067@gmail.com**
+I am an experienced developer with a comprehensive background, currently focusing on transitioning into **Offensive Security**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+> *"I believe that hands-on experience building systems from end-to-end is the best foundation for understanding and finding their inherent weaknesses."*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- **Development Background:** Former **Founder & Full Stack Developer** of [Fanz](http://fanz.vn/) and [TikGrow](https://www.tikgrow.io/).
+- **Key Strength:** Developed and successfully launched multiple applications on the **Google Play Store**, providing practical, deep knowledge of the **Mobile Attack Surface** (Android/React Native).
+- **Current Focus:** Developing expertise in **Web and Mobile Penetration Testing**, with a deep interest in logic flaws and concurrency vulnerabilities.
+- **Methodology:** Grey-box testing & Source code review.
+
+---
+
+### ⚙️ Current Skill Development & AI Research
+
+* **Reverse Engineering:** Actively practicing techniques (Static/Dynamic Analysis) for Mobile apps and strengthening skills in Red Teaming.
+* **AI Application in Pentesting:** Currently integrating AI to enhance **vulnerability discovery automation**. Specifically, exploring techniques for **predicting logic flaws** and optimizing fuzzing efficiency based on traffic analysis.
+
+---
+
+### Private Research & Tooling
+
+*Due to the sensitive nature of some projects, certain tools developed for internal auditing and research remain private.*
+
+**Security Research Project: Custom Race Condition Fuzzer**
+> A high-performance, multi-threaded exploitation tool built to detect and exploit complex **Race Conditions** in high-concurrency transactional APIs.
+> * **Technical Capability:** Auditing and bypassing common database locks and transaction isolation levels in scale environments.
+> * **Tech:** Written primarily in **Go**.
+
+---
+
+### The Arsenal (Tech Stack)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux,py&theme=dark" />
+</div>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="margin-right: 10px;"/>
+  
+  <img src="https://skillicons.dev/icons?i=cs,unity,js,ts,react,nodejs,firebase,mongodb,postgres,git&theme=dark" />
+</div>
+
+---
