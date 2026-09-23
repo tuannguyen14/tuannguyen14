@@ -1,50 +1,30 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
 
-# Tuấn
+# Hi, I'm Tuấn 👋
 
-`Full Stack Developer` • `Offensive Security`
+`Offensive Security` • `Smart Contracts Audit` • `Full Stack`
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=Build.;Break.;Automate.;Repeat." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Build.+Break.+Audit.+Automate." />
 
 </div>
 
 ---
 
-## About
+### ⚡ About Me
 
-- Full Stack Developer
-- Offensive Security Learner
-- Web & Mobile Security
-- Source Code Review
-- Reverse Engineering
-- AI-assisted Vulnerability Research
+Full Stack Developer specializing in **Offensive Security**, **Smart Contract Auditing**, and **Web2 Security Architecture**. Focused on deep-dive vulnerability research, source code review, and building high-performance automated security tooling.
 
-Currently interested in:
-
-- Authentication & Authorization
-- Business Logic Bugs
-- Race Conditions
-- API Security
-- Android Security
-- Automation & Fuzzing
+- 🎯 **Core Focus:**
+  - **Security & Auditing:** Source Code Review, Web/Mobile Security, Smart Contract Audits (MCP), Reverse Engineering.
+  - **Vulnerability Research:** Business Logic Flaws, Race Conditions, API & Auth Mechanisms, Automation & Fuzzing.
+  - **Web2 / Engineering:** Scalable Full Stack Applications, Internal Tooling & AI-assisted Security Workflows.
+  - **Current Projects:** High-performance Race Condition Fuzzer (Go), AI Pentesting Workflows, and Custom Audit Frameworks.
 
 ---
 
-## Private Research
+### 🛠 Tech Stack
 
-Some projects are intentionally private.
-
-- High-performance Race Condition Fuzzer (Go)
-- Internal Security Audit Tooling
-- AI-assisted Pentesting Workflow
-- Vulnerability Research
-- Smart contracts audit mcp
-
----
-
-## Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,py,js,ts,nodejs,react,nextjs,postgres,mongodb,firebase,linux,kali,git,docker&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,js,ts,solidity,nodejs,react,nextjs,postgres,mongodb,linux,kali,docker,git&theme=dark" />
 </p>
